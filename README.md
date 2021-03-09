@@ -19,4 +19,3 @@ Skills: Java/ NodeJS / Angular /MongoDB
 
 
 
-
