@@ -5,6 +5,8 @@ I'm Kedar from Nepal, and I do design and development. I really enjoy learning l
 #### Design and Development
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kedarSedai)](https://github.com/anuraghazra/github-readme-stats)
 
+## Skills & Experience
+* atom
 
 ![Design and Development](https://blog.stoneriverelearning.com/wp-content/uploads/2015/11/kiss.jpg)
 
