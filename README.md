@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 I'm Kedar from Nepal, and I do design and development. I really enjoy learning languages like NodeJs, Java and making an Android applications.  
 
