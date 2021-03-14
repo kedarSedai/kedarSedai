@@ -12,8 +12,7 @@ I'm Kedar from Nepal, and I do design and development. I really enjoy learning l
 
 ## Work
 
-<img src="https://github.com/kedarSedai/Landing-Page/blob/master/landing.PNG" width="256" /> <img src="https://www.google.com/search?q=english+to+nepali&rlz=1C1CHBF_enNP859NP859&sxsrf=ALeKk02kwWPhtNIMAW1lp7JcSVeXMDRB_g:1615711575659&source=lnms&tbm=isch&biw=1517&bih=694#imgrc=bAy1-TNXP9XUdM" width="256" /> 
-
+<img src="https://github.com/kedarSedai/Landing-Page/blob/master/landing.PNG" width="256" /> 
 
 ![Design and Development](https://blog.stoneriverelearning.com/wp-content/uploads/2015/11/kiss.jpg)
 
