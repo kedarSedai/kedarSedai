@@ -6,7 +6,6 @@ I'm Kedar from Nepal, and I do design and development. I really enjoy learning l
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kedarSedai)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=kedarSedai&color=green)
 
 ## Skills & Experience
 * Android
