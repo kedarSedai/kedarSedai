@@ -10,7 +10,7 @@ I'm Kedar from Nepal, and I do design and development. I really enjoy learning l
 
 🌱 I’m currently learning - React Js, Competitive Programming.
 
-👯 I’m looking to collaborate with - Any Business or Open Source Idea.
+👯 I’m looking to collaborate with - Open Source Idea.
 
 💬 Ask me about - Node Js.
 
