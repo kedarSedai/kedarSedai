@@ -1,6 +1,6 @@
 ### Hello 👋, Kedar Sedai 
 
-## [Protfolio](https://github.com/kedarSedai/Protfolio)
+## [Portfolio](https://github.com/kedarSedai/Protfolio)
 
 #### Design and Development
 
