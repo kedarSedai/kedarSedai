@@ -14,7 +14,7 @@ I'm Kedar from Nepal, and I do design and development. I really enjoy learning l
 
 💬 Ask me about - Node Js.
 
-🥅 2023 Goal - Giving my best at the Competitive Programming.
+🥅 2024 Goal - Competitive Programming.
 
 📫 How to reach me: Below Links .
 
